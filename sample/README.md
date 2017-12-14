@@ -1,6 +1,6 @@
 # 一键安装FISCO BCOS脚本使用说明
 
-本文档能够让初学者快速体验FISCO BCOS平台。提供了FISCO BCOS的快速安装和FISCO BCOS节点的快速部署步骤。
+本文档能够让初学者快速体验FISCO BCOS1平台。提供了FISCO BCOS的快速安装和FISCO BCOS节点的快速部署步骤。
 ## 注意事项：
 1. build.sh在centos和Ubuntu版本测试成功；
 2. 所有Linux发行版本请确保yum和git已安装，并能正常使用；
